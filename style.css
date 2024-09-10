@@ -22,7 +22,7 @@ body {
 }
 
 .card {
-    max-width: 400px;
+    max-width: 300px;
     margin: 80px auto;
     background-color: var(--Dark-Blue);
     padding: 1.5rem;
@@ -34,4 +34,21 @@ body {
     padding: .7rem;
     border-radius: 50%;
     max-width: 13px;
+}
+
+h1 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+h2 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+p {
+    margin-top: 1rem;
+    font-size: .7rem;
+    margin-bottom: 1rem;
+    color: var(--Light-Grey);
+    
 }
