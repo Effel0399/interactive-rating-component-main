@@ -35,11 +35,6 @@ body {
     border-radius: 50%;
     max-width: 13px;
 }
-.thank-img img {
-    display: block;
-    margin: 1rem auto;
-    max-width: 125px;
-}
 
 h1 {
     margin-top: 1rem;
@@ -48,12 +43,26 @@ h1 {
 h2 {
     margin-top: 1rem;
     font-size: 1.5rem;
+    text-align: center;
 }
 
 p {
     margin-top: 1rem;
     font-size: .7rem;
     margin-bottom: 1rem;
-    color: var(--Light-Grey);
-    
+    color: var(--Light-Grey);   
+}
+
+.thank-img img {
+    display: block;
+    margin: 1rem auto;
+    max-width: 125px;
+}
+
+.selected-rating {
+    text-align: center;
+    background-color: hsl(211, 19%, 23%);
+    color: var(--Orange);
+    font-size: .7rem;
+    padding: .7rem;
 }
