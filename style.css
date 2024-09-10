@@ -30,10 +30,15 @@ body {
 }
 
 .star-icon img{
-    background-color: hsl(211, 19%, 23%);;
+    background-color: hsl(211, 19%, 23%);
     padding: .7rem;
     border-radius: 50%;
     max-width: 13px;
+}
+.thank-img img {
+    display: block;
+    margin: 1rem auto;
+    max-width: 125px;
 }
 
 h1 {
