@@ -28,3 +28,10 @@ body {
     padding: 1.5rem;
     border-radius: 1rem;
 }
+
+.star-icon img{
+    background-color: hsl(211, 19%, 23%);;
+    padding: .7rem;
+    border-radius: 50%;
+    max-width: 13px;
+}
