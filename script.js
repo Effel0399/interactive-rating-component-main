@@ -1,4 +1,8 @@
 function hideCard() {
-    var x = document.getElementById("rating-card");
-    x.style.display = "none";
+    var card = document.getElementById("rating-card");
+    card.style.display = "none";
   }
+
+function rating1() {
+    document.getElementById("rating-span").textContent="1";
+}
