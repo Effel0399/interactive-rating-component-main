@@ -76,6 +76,21 @@ p {
     background-color: white;
 }
 
+.submit-button {
+    background-color: var(--Orange);
+    color: black;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: .5rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+.submit-button:hover {
+    color: black;
+    background-color: white;
+}
+
 #thank-card {
     display: block;
 }
