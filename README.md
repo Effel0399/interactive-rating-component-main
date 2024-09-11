@@ -23,7 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/FNH99/blog-preview-card-main/blob/main/assets/images/screenshot.png)
+![](https://github.com/FNH99/interactive-rating-component-main/blob/main/images/Screenshot-1.png)
+
+![](https://github.com/FNH99/interactive-rating-component-main/blob/main/images/Screenshot-2.png)
+
+![](https://github.com/FNH99/interactive-rating-component-main/blob/main/images/Screenshot-3.png)
 
 ### Links
 
