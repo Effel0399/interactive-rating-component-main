@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [blog preview card](https://blog-preview-card-main-seven.vercel.app)
+- Live Site URL: [interactive rating](https://interactive-rating-component-main-gules.vercel.app)
 
 ## Author
 
