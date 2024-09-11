@@ -22,7 +22,7 @@ body {
 }
 
 .card {
-    max-width: 300px;
+    max-width: 275px;
     margin: 80px auto;
     background-color: var(--Dark-Blue);
     padding: 1.5rem;
@@ -48,7 +48,7 @@ h2 {
 
 p {
     margin-top: 1rem;
-    font-size: .7rem;
+    font-size: .8rem;
     margin-bottom: 1rem;
     color: var(--Light-Grey);   
 }
@@ -94,6 +94,7 @@ p {
 
 #thank-card {
     display: none;
+    text-align: center;
 }
 
 .thank-img img {
