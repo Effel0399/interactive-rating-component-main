@@ -85,6 +85,7 @@ p {
     padding: .5rem;
     margin-top: 1rem;
     border-radius: 1rem;
+    cursor: pointer;
 }
 .submit-button:hover {
     color: black;
@@ -92,7 +93,7 @@ p {
 }
 
 #thank-card {
-    display: block;
+    display: none;
 }
 
 .thank-img img {
