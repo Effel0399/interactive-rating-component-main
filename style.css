@@ -53,6 +53,29 @@ p {
     color: var(--Light-Grey);   
 }
 
+.rating-score {
+    display: flex;
+    justify-content: space-between;
+}
+.rating-score button {
+    background-color: hsl(211, 19%, 23%);
+    color: white;
+    border: none;
+    font-size: .7rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.rating-score button:hover {
+    color: black;
+    background-color: var(--Orange);
+}
+.rating-score button:focus {
+    color: black;
+    background-color: white;
+}
+
 #thank-card {
     display: block;
 }
