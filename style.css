@@ -53,6 +53,10 @@ p {
     color: var(--Light-Grey);   
 }
 
+#thank-card {
+    display: none;
+}
+
 .thank-img img {
     display: block;
     margin: 1rem auto;

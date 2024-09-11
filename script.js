@@ -1,6 +1,6 @@
 function hideCard() {
-    var card = document.getElementById("rating-card");
-    card.style.display = "none";
+    document.getElementById("rating-card").style.display = "none";
+    document.getElementById("thank-card").style.display = "block";
   }
 
 function rating1() {
